@@ -1,0 +1,5 @@
+policy,cold_start_%,p95_latency_ms,warm_GB_min,emissions_g,prewarm_hit_%
+No pre-warming,68.28,1607.1,859.0,27.47,
+Fixed keep-alive 10 min,7.58,483.3,2677.0,87.98,
+GreenWarm,6.4,460.9,2098.0,68.33,57.1
+GreenWarm (carbon off),6.3,458.2,2121.0,69.39,57.4
